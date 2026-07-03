@@ -166,10 +166,9 @@ A property rental platform where users can browse, search, and manage rental pro
 
 ## 🤝 Connect With Me
 
-* LinkedIn
-* GitHub
-* Portfolio
-* Resume
+* LinkedIn - https://www.linkedin.com/in/swati-singh-9822a13a1/
+* Portfolio -  https://neon-puffpuff-1f3bc7.netlify.app/
+* Resume - https://drive.google.com/file/d/1P5qeiiFp5SXsVLJEY-kpCgBeKVl8cvev/view?usp=drive_link
 
 ---
 
