@@ -36,9 +36,7 @@ Currently, I'm expanding my skills in **Node.js, Express.js, MongoDB, Firebase, 
 ---
 
 ## 🛠️ Tech Stack
-
 ### Frontend
-
 * HTML5
 * CSS3
 * JavaScript (ES6+)
